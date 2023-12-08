@@ -1,0 +1,1 @@
+flex app.l && g++ lex.yy.c -o app && app.exe

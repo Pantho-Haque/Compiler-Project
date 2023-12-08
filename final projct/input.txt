@@ -1,0 +1,112 @@
+begining
+##|stdio.h|
+
+/=
+    Pantho Haque
+    Roll : 1907075
+    Group : B1
+    3rd Year 2nd Semester
+=/
+
+== variable declaration ==
+in a,b,c,d;;
+in a;;
+
+flt fr;;
+fr<-5.0 ;;
+
+a<-5 ;;
+
+
+== printing ==
+display a ;;
+
+gtt<-23
+b<-a
+
+display b;;
+
+
+== Conditional (nested) statement ==
+do-if|a eq b|{
+    a<-7;; 
+    display a;;
+    do-if|a eq b|{
+        display "Nested do if" ;;
+    }
+
+}or-if|a le 34|{
+    b<-a** sub 2;; 
+    display b;;
+
+}or{
+    c<-a add 3;; 
+    display c;;
+
+}
+
+== switch ==
+
+
+
+== Loop  ==
+from  in i<-0 to 10{ 
+    a <- a**3;;
+    display a;;
+}
+
+from in j <- 5 to 10{
+    do-if|a eq b|{
+        a<-7;; 
+        display a;;
+    
+    }or-if|a le 34|{
+        b<-a** sub 2;; 
+        display b;;
+
+    }or-if|a le 34|{
+        b<-a** sub 3;; 
+        display b;;
+    
+    }or-if|a le 34|{
+        b<-a** sub 4;; 
+        display b ;;
+        display 54645645 ;;
+
+    }or{
+        c <- a add 3;; 
+        display c;;
+    }
+
+}
+
+
+
+== switch statements ==
+
+stopif|a ge 5|{ 
+    a dec 2;;
+    display prime 7 ;; 
+    display prime 50 ;;
+}
+
+stopif|a le 9|{ 
+    a inc 2;;
+    display a pow 2 ;; 
+    display 5 ;;
+}
+
+
+== function ==
+
+func abcd|in p , in q|{
+    func jjlk|in p , in q|{
+        display a;;
+    }in
+}in
+
+== invalid statement ==
+
+'432
+
+ending

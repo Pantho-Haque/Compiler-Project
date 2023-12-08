@@ -1,0 +1,79 @@
+Multiline comment
+Header file insertion
+Beginning of the code 
+Single line comment 
+    Variable a is created
+Variable fg is created
+Variable l is created
+	Variable s is created
+	Variable 'a' already declared as type ch with value of null
+	An Array con is created
+	Variable temp is created
+	Variable 'con' already declared as type in with value of null
+	Variable pi is created
+	     unknown statment !!! 
+Single line comment 
+Displaying the Text 'this is the display function'
+Displaying the value of variable 'con' is null
+Single line comment 
+     s
+my name is pantho;;
+Assignment Operation
+    unknown statment !!! 
+ unknown statment !!! 
+    temp
+45;;
+Assignment Operation
+Single line comment 
+    ab
+temp add con;;
+Assignment Operation
+Single line comment 
+     ab
+temp sub con;;
+Assignment Operation
+Single line comment 
+    ab
+temp mul con;;
+Assignment Operation
+Single line comment 
+     ab
+temp div con;;
+Assignment Operation
+    Single line comment 
+    ab
+temp gt con;;
+Assignment Operation
+Single line comment 
+     ab
+temp lt con;;
+Assignment Operation
+    Single line comment 
+    ab
+temp ge con;;
+Assignment Operation
+Single line comment 
+     ab
+temp le con;;
+Assignment Operation
+    Single line comment 
+    ab
+temp ne con;;
+Assignment Operation
+Single line comment 
+     ab
+temp eq con;;
+Assignment Operation
+Single line comment 
+     Or-If Conditional Statement 
+    Value-of Conditional Statement 
+Single line comment 
+   from to Loop occured
+   Stop if Loop Occured
+Single line comment 
+     Function Declared
+End of the code 
+
+
+---> Total 22 statements created 
+---> Total 7 unique variables created 

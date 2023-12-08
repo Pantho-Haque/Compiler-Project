@@ -1,0 +1,93 @@
+/=
+    Pantho Haque
+    Roll : 1907075
+    Group : B1
+    3rd Year 2nd Semester
+=/
+
+##<bits/stdc++.h>
+
+begining
+
+== variable declaration ==
+    ch a,fg,l;;
+	st s;;
+	st a[];;
+	in con[];;
+	floating temp;;
+	floating con;;
+	dfloat pi;;
+	
+     pp;;
+
+== Print the ine ==
+
+display(this is the display function);;
+display(con);;
+
+== assignment operation == 
+    s<-my name is pantho;;
+    con 10;;
+    temp<-45;;
+
+== addition ==
+    ab<-temp add con;;
+
+== subtraction ==
+     ab<-temp sub con;;
+
+== multiplication ==
+    ab<-temp mul con;;
+
+== division ==
+     ab<-temp div con;;
+    
+== greater than ==
+    ab<-temp gt con;;
+
+== less than ==
+     ab<-temp lt con;;
+    
+== greater equal ==
+    ab<-temp ge con;;
+
+== less equal ==
+     ab<-temp le con;;
+    
+== not equal ==
+    ab<-temp ne con;;
+
+== equal ==
+     ab<-temp eq con;;
+
+==  Conditional statement == 
+    do-if|temp gt con|{
+        == statements ==
+    }or-if|temp lt con|{
+
+    }or{
+
+    }
+ 
+   valueof|temp|{
+	matches 10{}
+	matches 20{}
+	def{}
+    }
+
+
+== Loop ==
+   from i<-1 to 10{
+	== statement ==
+   }
+
+   stopif|temp gt con|{
+	== statement ==
+   }
+
+== functions == 
+    func addingTwoNUmber|in a,in b|{
+        == statement ==
+    }
+
+ending

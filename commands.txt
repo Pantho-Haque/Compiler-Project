@@ -1,0 +1,4 @@
+flex --version
+gcc --version
+
+flex app.l && gcc lex.yy.c -o app && app.exe
